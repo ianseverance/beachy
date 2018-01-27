@@ -1,0 +1,21 @@
+{
+  "name": "beachy",
+  "description": "Coming soon...",
+  "author": "Ian Severance <hi@ianseverance.com>",
+  "license": "MIT",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianseverance/beachy.git"
+  },
+  "keywords": [
+    "beach",
+    "beachy"
+  ],
+  "bugs": {
+    "url": "https://github.com/ianseverance/beachy/issues"
+  },
+  "homepage": "https://github.com/ianseverance/beachy#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
